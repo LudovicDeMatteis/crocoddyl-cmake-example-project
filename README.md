@@ -1,4 +1,4 @@
-# crocoddyl + CMake example project
+# CMake example project using Crocoddyl
 
-This repo is an example on how to use the [crocoddyl](https://github.com/loco-3d/crocoddyl/) optimal control library in C++ using the CMake build system.
-
+This template shows a simple project using  [crocoddyl](https://github.com/loco-3d/crocoddyl/) with the CMake build system.
+One can use this a a template to create new projects
